@@ -1,4 +1,4 @@
-# Cognizant_Inventory-stock-percentage-prediction-using-ML in Python
+# Inventory stock percentage predictive and prescriptive analytics using ML in Python
 Developed a Inventory Stock percentage prediction using random forest regression model on python.
 
 COGNIZANT AI ML VIRTUAL INTERNSHIP 
